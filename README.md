@@ -2,7 +2,7 @@
 This is a public repository. There are solutions of some cases, that realised on Java. 
 
 
-1. The first packege is a Expression parser. This solution can build simple expressions and parse that from string.
+1. The first packege is a Expression parser. This solution can build simple expressions and parse that from string. 
 
 2. This is a Elf parser. There are many if-else constructions, cause any instruction have specific construction.
 
